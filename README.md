@@ -1,2 +1,7 @@
-# training-typescript
-typescript training
+## training-typescript
+
+安装TS 
+```bash
+npm install -g typescript
+```
+
