@@ -1,3 +1,5 @@
+//基础类型
+
 // Boolean
 let isDone: boolean = false;
 
