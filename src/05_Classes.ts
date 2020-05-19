@@ -40,4 +40,3 @@ class Dog extends Animal {
 }
 const ani = new Animal('jimmy', 'boy');
 console.log(ani.move(3));
-
