@@ -1,4 +1,4 @@
-// 布尔值 Boolean
+// Boolean
 let isDone: boolean = false;
 
 // 数字 Number
